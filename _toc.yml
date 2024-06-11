@@ -4,19 +4,20 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Entwicklungsumgebung
+  - caption: Einleitung
     chapters:
       - file: develop/intro
       - file: develop/git
       - file: develop/python
       - file: develop/jupyter_book
       - file: develop/editor
-  - caption: Datentypen und Formatierung
+  - caption: Fallstudie
     chapters:
+      - file: Aufgabe 1
       - file: formatting/markdown
       - file: formatting/notebooks
       - file: formatting/markdown-notebooks
-  - caption: Assessment
+  - caption: Zusammenfassung
     chapters:
       - file: assessment/introduction
       - file: assessment/jupyterquiz
