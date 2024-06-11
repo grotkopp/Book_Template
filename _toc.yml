@@ -13,7 +13,7 @@ parts:
       - file: develop/editor
   - caption: Fallstudie
     chapters:
-      - file: Aufgabe 1
+      - file: formatting/Aufgabe 1
       - file: formatting/markdown
       - file: formatting/notebooks
       - file: formatting/markdown-notebooks
